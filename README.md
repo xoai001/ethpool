@@ -1,6 +1,6 @@
 # EtherPool
 
-This is the pool source that runs the weipool backend share processing / payments. If you also need a frontend see https://github.com/ming08108/EtherPool-Frontend.
+This is the pool source that runs the weipool backend share processing / payments. If you also need a frontend see https://github.com/xoai001/ethpool-website
 
 # Requirements
 1. Redis
